@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/src/infra/firebase.tsx
 # production
 /build
 
